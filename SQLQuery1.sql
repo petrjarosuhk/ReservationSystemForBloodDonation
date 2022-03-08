@@ -1,0 +1,1 @@
+﻿select RezervaceDatumu.datum_odberu, RezervaceDatumu.cas_odberu from RezervaceDatumu where RezervaceDatumu.datum_odberu='25.2.2022' and RezervaceDatumu.cas_odberu='13:00';
